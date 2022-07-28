@@ -16,11 +16,11 @@ Un circuito de corriente alterna nos permite el análisis del funcionamiento de 
 
 MARCO TEORICO:
 
-![](
+![](https://github.com/Shirley-Erazo9/Informe-6/blob/main/M3.png)
 
-![](
+![](https://github.com/Shirley-Erazo9/Informe-6/blob/main/M1.png)
 
-![](
+![](https://github.com/Shirley-Erazo9/Informe-6/blob/main/M2.png)
 
 Resolucion de Ejercicios y Problemas
 
@@ -304,13 +304,13 @@ SECCIÓN 12–7 APLICACIONES DE LOS CAPACITORES.
 
 52. Idealmente, ¿cuál deberá ser la reactancia de un capacitor de desvío para eliminar un voltaje de ca de 10 kHz en un punto dado en un circuito amplificador?
 
-![](
+![](https://github.com/Shirley-Erazo9/Informe-6/blob/main/EJ55.png)
 
 SECCIÓN 12–8 CIRCUITOS DE CAPACITOR CONMUTADO.
 
 54. En un circuito de capacitor conmutado, el capacitor de 100 pF se conmuta a una frecuencia de 8 kHz. ¿Qué valor de resistor se emula?
 
-![](
+![](https://github.com/Shirley-Erazo9/Informe-6/blob/main/EJU.png)
 
 CONCLUSIONES.
 

@@ -248,71 +248,57 @@ SECCIÓN 12–5 CAPACITORES EN CIRCUITOS CD.
 
 32. En el circuito de la figura 12-74, inicialmente el capacitor está descargado. Determine el voltaje pre�sente en el capacitor en los instantes posteriores al cierre del interruptor.
 
-![]( 
-
-![](
+![](https://github.com/Shirley-Erazo9/Informe-6/blob/main/EJ2.36.png)
 
 34. Repita el problema 32 con los siguientes intervalos de tiempo.
 
-![](
-
-![](
+![](https://github.com/Shirley-Erazo9/Informe-6/blob/main/EJ2.38.png)
 
 36. Derive la fórmula para determinar el tiempo en cualquier punto de una curva de voltaje exponencial creciente. Use esta fórmula para calcular el tiempo en el cual el voltaje que aparece en la figura 12-76 llega a 6 V después de cerrar el interruptor.
 
-![](
-
-![](
+![](https://github.com/Shirley-Erazo9/Informe-6/blob/main/EJ2.39.png)
 
 38. ¿Cuánto tiempo requiere el capacitor C para descargarse a 3 V en la figura 12-75?
 
-![]( 
-
-![](
+![](https://github.com/Shirley-Erazo9/Informe-6/blob/main/EJ2.40.png) 
 
 40. En la figura 12-78, inicialmente el capacitor está descargado. En el instante t � 10 ms después de que se cierra el interruptor, el voltaje instantáneo en el capacitor es de 7.2 V. Determine el valor de R.
 
-![]( 
+![](https://github.com/Shirley-Erazo9/Informe-6/blob/main/EJ2.41.png)
 
 SECCIÓN 12–6 CAPACITORES EN CIRCUITOS DE CA.
 
 42. ¿Cuál es el valor de la reactancia capacitiva total en cada circuito de la figura 12-80?
 
-![]( 
-
-![](
+![](https://github.com/Shirley-Erazo9/Informe-6/blob/main/EJ2.42.png) 
 
 44. En cada circuito de la figura 12-80, ¿qué frecuencia se requiere para producir una XC de 100 Æ? ¿Una XC de 1 kÆ?
 
-![](
+![](https://github.com/Shirley-Erazo9/Informe-6/blob/main/EJ2.43.png)
 
-![](
-
-![](
+![](https://github.com/Shirley-Erazo9/Informe-6/blob/main/EJ2.44.png)
 
 46. Se aplica un voltaje de 10 kHz a un capacitor de 0.0047 mF, y se mide una corriente rms de 1 mA. ¿Cuál es el valor del voltaje?
 
-![](
+![](https://github.com/Shirley-Erazo9/Informe-6/blob/main/EJ2.48.png)
 
 48. Determine el voltaje de ca entre las terminales de cada capacitor y la corriente en cada rama del circui�to de la figura 12-81.
 
-![]( 
+![](https://github.com/Shirley-Erazo9/Informe-6/blob/main/EJ2.50.png) 
 
-![]( 
+![](https://github.com/Shirley-Erazo9/Informe-6/blob/main/EJ2.50.1.png) 
 
-![]( 
+![](https://github.com/Shirley-Erazo9/Informe-6/blob/main/EJ2.50.2.png) 
 
-![]( 
+![](https://github.com/Shirley-Erazo9/Informe-6/blob/main/EJ50.3.png) 
 
-![]( 
+![](https://github.com/Shirley-Erazo9/Informe-6/blob/main/EJ%2050.3.png) 
 
 50. Si en la figura 12-81 C4 se abriera, determine los voltajes que se medirían entre las terminales de los otros capacitores.
 
-![](
+![](https://github.com/Shirley-Erazo9/Informe-6/blob/main/EJ%2051..png)
 
-![](
-
-![](
+![](https://github.com/Shirley-Erazo9/Informe-6/blob/main/EJ%2051.1.png)
 
 SECCIÓN 12–7 APLICACIONES DE LOS CAPACITORES.
 

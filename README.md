@@ -200,5 +200,142 @@ SECCIÓN 12–2 TIPOS DE CAPACITADORES.
 
 18. Identifique las partes del capacitor de disco de cerámica mostrado en la vista de corte de la figura 12-67.
 
+![](https://github.com/Shirley-Erazo9/Informe-6/blob/main/EJ30.png)
 
+a)Encapsulación
 
+b)Dielectrico(disco de ceramica)
+
+c)Placa(disco de metal)
+
+d)Cables conductores.
+
+SECCIÓN 12–3 CAPACITORES EN SERIE.
+
+20. Cinco capacitores de 1000 pF están en serie. ¿Cuál es la capacitancia total?
+
+![](https://github.com/Shirley-Erazo9/Informe-6/blob/main/EJ31.png) 
+
+22. Para cada circuito de la figura 12-69, determine el voltaje entre las terminales de cada capacitor.
+
+![](https://github.com/Shirley-Erazo9/Informe-6/blob/main/EJ32.pnghttps://github.com/Shirley-Erazo9/Informe-6/blob/main/EJ32.png)
+
+![](https://github.com/Shirley-Erazo9/Informe-6/blob/main/EJ32.1.png)
+
+24. La carga total guardada por los capacitores en serie de la figura 12-70 es de 10 mC. Determine el vol�taje entre las terminales de cada capacitor.
+
+![](https://github.com/Shirley-Erazo9/Informe-6/blob/main/EJ33.png)
+
+![](https://github.com/Shirley-Erazo9/Informe-6/blob/main/EJ33.1.png)
+
+SECCIÓN 12–4 CAPACITORES EN PARALELO.
+
+26. ¿Cuál es la carga en cada capacitor de la figura 12-71?
+
+![](https://github.com/Shirley-Erazo9/Informe-6/blob/main/EJ34.png) 
+
+![](https://github.com/Shirley-Erazo9/Informe-6/blob/main/EJ34.1.png)
+
+28. ¿Cuál es el voltaje entre los nodos A y B en cada circuito de la figura 12-72?
+
+![](https://github.com/Shirley-Erazo9/Informe-6/blob/main/EJ35.png)
+
+![](
+
+SECCIÓN 12–5 CAPACITORES EN CIRCUITOS CD.
+
+30. Determine la constante de tiempo para cada una de las combinaciones en serie.
+
+![]( 
+
+![]( 
+
+32. En el circuito de la figura 12-74, inicialmente el capacitor está descargado. Determine el voltaje pre�sente en el capacitor en los instantes posteriores al cierre del interruptor.
+
+![]( 
+
+![](
+
+34. Repita el problema 32 con los siguientes intervalos de tiempo.
+
+![](
+
+![](
+
+36. Derive la fórmula para determinar el tiempo en cualquier punto de una curva de voltaje exponencial creciente. Use esta fórmula para calcular el tiempo en el cual el voltaje que aparece en la figura 12-76 llega a 6 V después de cerrar el interruptor.
+
+![](
+
+![](
+
+38. ¿Cuánto tiempo requiere el capacitor C para descargarse a 3 V en la figura 12-75?
+
+![]( 
+
+![](
+
+40. En la figura 12-78, inicialmente el capacitor está descargado. En el instante t � 10 ms después de que se cierra el interruptor, el voltaje instantáneo en el capacitor es de 7.2 V. Determine el valor de R.
+
+![]( 
+
+SECCIÓN 12–6 CAPACITORES EN CIRCUITOS DE CA.
+
+42. ¿Cuál es el valor de la reactancia capacitiva total en cada circuito de la figura 12-80?
+
+![]( 
+
+![](
+
+44. En cada circuito de la figura 12-80, ¿qué frecuencia se requiere para producir una XC de 100 Æ? ¿Una XC de 1 kÆ?
+
+![](
+
+![](
+
+![](
+
+46. Se aplica un voltaje de 10 kHz a un capacitor de 0.0047 mF, y se mide una corriente rms de 1 mA. ¿Cuál es el valor del voltaje?
+
+![](
+
+48. Determine el voltaje de ca entre las terminales de cada capacitor y la corriente en cada rama del circui�to de la figura 12-81.
+
+![]( 
+
+![]( 
+
+![]( 
+
+![]( 
+
+![]( 
+
+50. Si en la figura 12-81 C4 se abriera, determine los voltajes que se medirían entre las terminales de los otros capacitores.
+
+![](
+
+![](
+
+![](
+
+SECCIÓN 12–7 APLICACIONES DE LOS CAPACITORES.
+
+52. Idealmente, ¿cuál deberá ser la reactancia de un capacitor de desvío para eliminar un voltaje de ca de 10 kHz en un punto dado en un circuito amplificador?
+
+![](
+
+SECCIÓN 12–8 CIRCUITOS DE CAPACITOR CONMUTADO.
+
+54. En un circuito de capacitor conmutado, el capacitor de 100 pF se conmuta a una frecuencia de 8 kHz. ¿Qué valor de resistor se emula?
+
+![](
+
+CONCLUSIONES.
+
+En conclusión, se puede decir que los elementos básicos del diseño de circuitos son los siguientes componentes resistores, capacitores e inductores y en las fuentes el voltaje y la corriente.
+
+En conclusión, los capacitadores son un componente electrónico pasivo y se puede desarrollar en circuitos electrónicos, como en los analógicos y digitales.
+
+BIBLIOGRAFÍA.
+
+Floyd, T. (2007). Principios de circuitos eléctricos (8.a ed., Vol. 1). Pearson Education. http://media.espora.org/mgoblin_media/media_entries/1455/Principios_de_circuitos_electricos.pdf 0 comments on commit 73edc1a.

@@ -240,15 +240,11 @@ SECCIÓN 12–4 CAPACITORES EN PARALELO.
 
 ![](https://github.com/Shirley-Erazo9/Informe-6/blob/main/EJ35.png)
 
-![](
-
 SECCIÓN 12–5 CAPACITORES EN CIRCUITOS CD.
 
 30. Determine la constante de tiempo para cada una de las combinaciones en serie.
 
-![]( 
-
-![]( 
+![](https://github.com/Shirley-Erazo9/Informe-6/blob/main/EJ2.35.png)  
 
 32. En el circuito de la figura 12-74, inicialmente el capacitor está descargado. Determine el voltaje pre�sente en el capacitor en los instantes posteriores al cierre del interruptor.
 
